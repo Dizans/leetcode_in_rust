@@ -1,0 +1,7 @@
+[package]
+name = "leetcode_in_rust"
+version = "0.1.0"
+authors = ["Dizans <dizansyu@gmail.com>"]
+edition = "2018"
+
+[dependencies]
